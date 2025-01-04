@@ -18,10 +18,9 @@ A glipse of some of my project
 ![image](Media (10).jpg)
 
 **Mobile App for A School**
-![image](Media (9).jpg) 
-![image](Media (7).jpg) 
-![image](Media (11).jpg)
-![image](Media (12).jpg)
-![image](Media (8).jpg)
-![image](Media (10).jpg)
+![image](Edu 1.PNG) 
+![image](Edu 2.PNG) 
+![image](Edu 3.PNG)
+![image](Edu 4.PNG)
+
 
