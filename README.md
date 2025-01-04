@@ -20,7 +20,7 @@ A glipse of some of my project
 **Mobile App for A School**
 ![image](Edu 1.PNG) 
 ![image](Edu 2.PNG) 
-![image](Edu 3.PNG)
+![image](Edu3.PNG)
 ![image](Edu 4.PNG)
 
 
