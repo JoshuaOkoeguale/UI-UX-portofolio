@@ -17,11 +17,24 @@ A glipse of some of my project
 ![image](Media (8).jpg)
 ![image](Media (10).jpg)
 
+
+
+[Read more](https://www.figma.com/design/BEJgM7QIClZVgcyyOVAiU1/Real-Estate?t=VYKDud8Y78VPS6Ky-0)
+
 **Mobile App for A School**
 ![image](Edu 1.PNG) 
 ![image](Edu 2.PNG) 
 ![image](Edu 3.PNG)
 ![image](Edu 4.PNG)
+
+
+
+
+
+[Read more](https://www.figma.com/design/8cEnQLasWCgQaH50Q6km4p/Educational-app?node-id=2-8134&t=CQU69oVQZ4qcMV9P-0)
+
+
+
 
 **Mobile App for Home tutor**
 ![image](Tutor 1.PNG) 
@@ -29,9 +42,19 @@ A glipse of some of my project
 ![image](Tutor 3.PNG)
 ![image](Tutor 4.PNG)
 
+
+
+
+[Read more](https://www.figma.com/design/705gXjDSxXjeDv6U3vcm4K/Home-tutor?node-id=0-1&p=f&t=fjc0BfKz1Na32IH5-0))
+
+
 **Zipper Website**
 ![image](Zipper 1.PNG) 
 ![image](Zipper 2.PNG)
+
+
+
+[Read more](https://www.figma.com/proto/2ujmmZLSHC9clkF00jmyJa/Zipper?node-id=1-2)
 
 
 
