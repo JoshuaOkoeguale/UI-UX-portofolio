@@ -24,10 +24,10 @@ A glipse of some of my project
 ![image](Edu 4.PNG)
 
 **Mobile App for Home tutor**
-![image](Edu 1.PNG) 
-![image](Edu 2.PNG) 
-![image](Edu3.PNG)
-![image](Edu 4.PNG)
+![image](Tutor 1.PNG) 
+![image](Tutor2.PNG)
+![image](Tutor 3.PNG)
+![image](Tutor 4.PNG)
 
 
 
