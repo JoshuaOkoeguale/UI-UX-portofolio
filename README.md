@@ -4,4 +4,9 @@ Hello! I am Joshua Philip Okoeguale a UI-UX designer and  Animator, I have work 
 
 ## What I Do
 
-As an Intern i have 
+I make professional and indepth designs that are user friendly and highly intersactive
+
+## My Portofolio
+A glipse of some of my project
+
+**Mobile App for Real Estate Company
