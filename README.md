@@ -61,7 +61,7 @@ A glipse of some of my project
 
 Lets connect and see how we can make a difference together
 
-Gmail (https://mail.google.com/mail)
+Gmail (https://joshuaokoeguale@gmail.com)
 
 Phone number (+234)816-758-4553
 
