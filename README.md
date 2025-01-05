@@ -57,11 +57,11 @@ A glipse of some of my project
 [Read more](https://www.figma.com/proto/2ujmmZLSHC9clkF00jmyJa/Zipper?node-id=1-2)
 
 
-#Contact Details
+##Contact Details
 
 Lets connect and see how we can make a difference together
 
-Gmail (https://mail.google.com/mail/u/0/#inbox)
+Gmail (https://mail.google.com/mail)
 
 Phone number (+234)816-753-4553
 
