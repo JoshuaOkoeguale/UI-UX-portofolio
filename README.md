@@ -63,7 +63,7 @@ Lets connect and see how we can make a difference together
 
 Gmail (https://mail.google.com/mail)
 
-Phone number (+234)816-753-4553
+Phone number (+234)816-758-4553
 
 
 
